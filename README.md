@@ -29,10 +29,15 @@ Proporcionar à Elity Drywall uma presença digital profissional, capaz de trans
 
 ---
 
+## 🌐 Deploy
+
+Você pode acessar o projeto online através do link:  
+🔗 **[elitydrywall.vercel.app](https://elitydrywall.vercel.app/)**
+
+---
+
 ## 📞 Contato
 
 Se deseja saber mais sobre o projeto ou contratar os serviços, entre em contato:  
 📱 **WhatsApp:** (62) 98566-7058  
 📍 **Localização:** [Abrir no Google Maps](https://maps.app.goo.gl/V9NMRvNQ9GLbJVES6)
-
----
